@@ -66,7 +66,6 @@ Handle errors gracefully in your code by checking the status code and providing 
 - **Error Retry:** Implement exponential backoff for retrying failed requests
 ```
 
----
 
 ### Next Steps
 1. **Review the API Documentation:** Visit the [MoviesDatabase API documentation](https://developers.themoviedb.org/3) (or the correct URL) to fill in the specifics (version, endpoints, rate limits, etc.).
